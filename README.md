@@ -1,4 +1,6 @@
 # Sepio
+First place winner of Byte Hacks Hackathon
+
 
 # Inspiration
 This creative prompt allowed us to look outside of the box when finding a solution. We realized that all of us were fascinated by the development of the Roman Empire. We were intrigued by how well it was able to grow, and wondered what would happen if it continued to do so. After researching, we found that the empire slowly died because they were unable to effectively govern all parts of the empire, causing it to grow thin because of its sheer size. As a result, we created this application using present day technologies, which we believe, could have helped Roman generals immensely during the process.
